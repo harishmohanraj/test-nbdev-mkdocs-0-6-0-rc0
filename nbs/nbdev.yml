@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-nbdev-mkdocs-0-6-0-rc0"
+  site-url: "https://harishmohanraj.github.io/test-nbdev-mkdocs-0-6-0-rc0"
+  description: "test-nbdev-mkdocs-0-6-0-rc0"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test-nbdev-mkdocs-0-6-0-rc0"
