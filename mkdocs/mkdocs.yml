@@ -102,4 +102,4 @@ extra_javascript:
 extra:
   version:
     provider: mike
-  social_image: "https://opengraph.githubassets.com/1688030827.137307/harishmohanraj/test-nbdev-mkdocs-0-6-0-rc0"
+  social_image: "overrides/images/social_image.png"
