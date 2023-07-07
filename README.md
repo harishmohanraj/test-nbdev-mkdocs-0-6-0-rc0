@@ -8,8 +8,6 @@
 
 [`Test.static_method`](https://harishmohanraj.github.io/test-nbdev-mkdocs-0-6-0-rc0/latest/api/test_nbdev_mkdocs_0_6_0_rc0/core/Test/#test_nbdev_mkdocs_0_6_0_rc0.core.Test.static_method)
 
-[`foo`](https://harishmohanraj.github.io/test-nbdev-mkdocs-0-6-0-rc0/latest/api/test_nbdev_mkdocs_0_6_0_rc0/core/foo/#test_nbdev_mkdocs_0_6_0_rc0.core.foo)
-
 This file will become your README and also the index of your
 documentation.
 
